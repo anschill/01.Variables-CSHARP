@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\bin\Debug\Jour1.exe.config
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\bin\Debug\Jour1.exe
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\bin\Debug\Jour1.pdb
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\obj\Debug\Jour1.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\obj\Debug\Jour1.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\obj\Debug\Jour1.exe
+C:\Users\Moi\Desktop\Jour1\Variables\Jour1\obj\Debug\Jour1.pdb

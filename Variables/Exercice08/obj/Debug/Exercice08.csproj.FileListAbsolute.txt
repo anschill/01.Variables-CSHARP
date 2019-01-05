@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\bin\Debug\Exercice08.exe.config
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\bin\Debug\Exercice08.exe
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\bin\Debug\Exercice08.pdb
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\obj\Debug\Exercice08.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\obj\Debug\Exercice08.exe
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\obj\Debug\Exercice08.pdb
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice08\obj\Debug\Exercice08.csprojAssemblyReference.cache

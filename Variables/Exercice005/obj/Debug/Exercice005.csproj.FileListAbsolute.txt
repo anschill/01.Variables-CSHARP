@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice005\bin\Debug\Exercice005.exe.config
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice005\bin\Debug\Exercice005.exe
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice005\bin\Debug\Exercice005.pdb
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice005\obj\Debug\Exercice005.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice005\obj\Debug\Exercice005.exe
+C:\Users\Moi\Desktop\Jour1\Variables\Exercice005\obj\Debug\Exercice005.pdb
